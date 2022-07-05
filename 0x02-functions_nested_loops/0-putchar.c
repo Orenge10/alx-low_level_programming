@@ -1,19 +1,20 @@
-#include "school.h"
+#include "main.h"
 
 /**
  * main - Entry point
  *
- * Return: 0
+ * Return: Always 0 (Success)
  */
 
 int main(void)
 {
-	char *sh = "school";
+	char c[] = "_putchar";
+	int i;
 
-	while (*sh)
+	for (i = 0; i < 8; i++)
 	{
-		_putchar(*sh);
-		sh++;
+
+		_putchar(c[i]);
 	}
 	_putchar('\n');
 
