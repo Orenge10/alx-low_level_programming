@@ -2,7 +2,7 @@
 
 /**
  * main - prints first 50 fibonacci numbers, starting with 1 & 2,
- * 	  separated by comma followed by space
+ * separated by comma followed by space
  *
  * Return: Always 0.
  */
