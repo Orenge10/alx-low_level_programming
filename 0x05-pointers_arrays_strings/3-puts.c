@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * _puts - function that prints a string followed by new line
+ * _puts - checks the code
  * @str: validate the character
  * Return: Always 0.
  */
