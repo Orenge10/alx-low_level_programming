@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - check the code
+ * reset_to_98 - check the code
  * @n : pointer of n and return value of 98.
  *
  * Return: Always 0.
